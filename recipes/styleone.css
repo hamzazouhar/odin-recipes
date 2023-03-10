@@ -1,0 +1,44 @@
+body {
+    background-color:#854D27;
+    color: #E7E393;
+    font-family:caveat ,'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: flex;
+}
+body img {
+    border: 5px solid #ffffff;
+    border-radius: 15px;
+    width:400px;
+    height: auto;
+    margin-bottom: 25px;
+}
+h1 {
+    font-size: 35px;
+}
+.all {
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+}
+.ingredients {
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #F4C95D;
+    color:#854D27;
+}
+.steps {
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #F4C95D;
+    color:#854D27;
+}
+.dis {
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #F4C95D;
+    color:#854D27;
+}
+
