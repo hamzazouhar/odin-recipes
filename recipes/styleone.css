@@ -1,19 +1,20 @@
 body {
-    background-color:#854D27;
-    color: #E7E393;
+    background-color:#E5D0CC;
+    color: #444554;
     font-family:caveat ,'Times New Roman', Times, serif;
     font-size: 20px;
     display: flex;
 }
 body img {
-    border: 5px solid #ffffff;
-    border-radius: 15px;
+    /* border: 5px solid #ffffff; */
+    border-radius: 5px;
     width:400px;
     height: auto;
     margin-bottom: 25px;
 }
 h1 {
     font-size: 35px;
+    margin-top: 3px;
 }
 .all {
     display: flex;
@@ -21,24 +22,25 @@ h1 {
     flex-direction: row;
 }
 .ingredients {
-    border: 2px solid white;
-    border-radius: 15px;
+    /* border: 2px solid white; */
+    border-radius: 5px;
     padding: 10px;
-    background-color: #F4C95D;
-    color:#854D27;
+    background-color: #BFACB5;
+    color:#444554;
 }
 .steps {
-    border: 2px solid white;
-    border-radius: 15px;
+    /* border: 2px solid white; */
+    border-radius: 5px;
     padding: 10px;
-    background-color: #F4C95D;
-    color:#854D27;
+    background-color: #BFACB5;
+    color:#444554;
 }
+
 .dis {
-    border: 2px solid white;
-    border-radius: 15px;
+    /* border: 2px solid white; */
+    border-radius: 5px;
     padding: 10px;
-    background-color: #F4C95D;
-    color:#854D27;
+    background-color: #BFACB5;
+    color:#444554;
 }
 
